@@ -5,10 +5,10 @@
 - 👋 Hi, I’m @space-partz
 - 👀 I’m interested in dynamic web debvelpment for for ending homelessness, hunger, and personal poverty.
 - 🌱 I’m currently learning database modeling, SQL and Python.
-- 💞️ I’m looking to collaborate on an next gen entreprenuerism .
-- 📫 How to reach me mailto:spacepartz@gmail.com
+- 💞️ I’m looking to collaborate on an next gen entreprenuerism.
+- 📫 How to reach me mailto:spacepartz@gmail.com.
 - 😄 My daily disposition is **_Focused_** with intent to be **_better than my current self_**.
-- ⚡ Fun fact: Ramadan is about being thankful for the harvest of ones efforts
+- ⚡ Fun fact: Ramadan is about being thankful for the harvest of ones efforts.
 
 <!---
 space-partz/space-partz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
